@@ -7,7 +7,7 @@ safe-by-default templates and neck-snapping performance are a step up
 from bulky, opinionated frameworks.
 
 Mithril makes application code discoverable, readable and maintainable.
-It's tiny at 7.8 KB (yes, 7.8 KB) with no dependencies. And yet Mithril
+It's tiny at 7.8 KB (yes, 7.8 KB) with no dependencies. Mithril
 goes toe-to-toe with the big boys including advanced capabilities like
 transclusion, computed properties and nested custom tags. And it's fast.
 Benchmarks show it to be faster than React or Angular 2.0.
